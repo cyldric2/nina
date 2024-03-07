@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "clean-css": "^5.3.3"
+  },
+  "dependencies": {
+    "terser": "^5.29.1"
+  }
+}
